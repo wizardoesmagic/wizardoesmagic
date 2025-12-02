@@ -1,133 +1,73 @@
-# Hello, I'm Wizard 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Python+Developer;Discord+Bot+Engineer;Backend+Automation+Specialist" alt="Typing SVG" />
-</div>
+# 🚀 Full-Stack Developer  
+Full Stack Engineer • Database Specialist • Cloud Architect
 
 ---
 
-## About Me
-
-**Backend-focused Python developer** passionate about creating robust automation tools, sophisticated Discord bots, and secure systems. I specialize in delivering clean, scalable code that solves real-world challenges.
-
-### Current Focus:
-- Advanced AntiNuke protection systems
-- Comprehensive moderation bot frameworks  
-- Reliable bot uptime management solutions
-
-### Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
-**Databases:** PostgreSQL, SQLite, MongoDB  
-**Specializations:** Backend Development, Discord API, Automation  
+## 🌐 Socials
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/soward-hq-1105829839522517093)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/arhhxxnn)
 
 ---
 
-## Achievements & Competitions
+## 🧠 Tech Stack
 
-<table align="center">
-  <thead>
-    <tr>
-      <th>🏆</th>
-      <th>Competition</th>
-      <th>Category</th>
-      <th>Achievement</th>
-      <th>Prize</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>5</td>
-      <td>Discord Bot Challenge 2024</td>
-      <td>Security</td>
-      <td>Best Security Bot</td>
-      <td>$1000 USD</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Python Automation Hackathon</td>
-      <td>Automation</td>
-      <td>Most Innovative Solution</td>
-      <td>$750 USD</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>Backend Developer Contest</td>
-      <td>API Development</td>
-      <td>Best API Design</td>
-      <td>$500 USD</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Open Source Contribution</td>
-      <td>Discord Bots</td>
-      <td>Top Contributor</td>
-      <td>Recognition</td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>Security Bot Challenge</td>
-      <td>AntiNuke Systems</td>
-      <td>Winner</td>
-      <td>$1200 USD</td>
-    </tr>
-  </tbody>
-</table>
+### **Languages & Frameworks**
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js)
+
+### **Backend / Infra**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow)
+
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis)
+![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![PocketBase](https://img.shields.io/badge/PocketBase-b8dbe4?style=for-the-badge&logo=pocketbase)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase)
 
 ---
 
-## Contributions
+## 📊 GitHub Stats
 
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gtgwizard/gtgwizard/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
-## LeetCode Stats
-
-<div align="center">
-  <h3>LeetCode Badges</h3>
-  <p align="center">
-    <a href="https://leetcode.com/gtgwizard/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="leetcode" height="150" width="150" /></a>
-    <a href="https://leetcode.com/gtgwizard/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="leetcode" height="150" width="150" /></a>
-    <a href="https://leetcode.com/gtgwizard/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="leetcode" height="150" width="150" /></a>
-    <a href="https://leetcode.com/gtgwizard/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="leetcode" height="150" width="150" /></a>
-  </p>
-  
-  <img align="center" src="https://leetcard.jacoblin.cool/gtgwizard?theme=dark&font=Nunito&ext=heatmap" />
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=wizardoesmagoc&theme=dark&show_icons=true&hide_border=false)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=wizardoesmagoc&theme=dark&hide_border=false)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wizardoesmagoc&theme=dark&layout=compact&hide_border=false)
 
 ---
 
-## Current Statistics
-
-<div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=gtgwizard&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=gtgwizard&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtgwizard&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+## 🏆 Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=wizardoesmagic&theme=radical&no-frame=false&margin-w=4)
 
 ---
 
-## Connect With Me
-
-<div align="center">
-  
-[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BHE8vDBC5A)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gtgwizard/)
-[![Community](https://img.shields.io/badge/Community-Core_Dev-FF6B6B?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/core-dev)
-
-<img src="https://komarev.com/ghpvc/?username=gtgwizard&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="gtgwizard" />
-
-</div>
+## ✍️ Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-<div align="center">
-  <i>"Building secure, scalable solutions that make a difference in digital communities."</i>
-</div>
+## 🔥 Top Repositories
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=wizardoesmagic&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 👀 Profile Visits
+![Visits](https://visitcount.itsvg.in/api?id=wizardoesmagoc&icon=0&color=0)
