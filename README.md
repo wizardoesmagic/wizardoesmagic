@@ -88,15 +88,3 @@ I'm a passionate developer specializing in full-stack development and database a
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wizardoesmagic&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=wizardoesmagic&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
