@@ -100,22 +100,3 @@ I'm a passionate developer specializing in full-stack development and database a
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=wizardoesmagic&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
-<div align="center">
-
-### 💭 Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=wizardoesmagic&icon=2&color=6)
-
-*Let's build something amazing together!*
-
-</div>
