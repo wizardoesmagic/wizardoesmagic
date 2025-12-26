@@ -1,19 +1,19 @@
 <div align="center">
 
-# 👋 Hi, I'm Arhan
+#  Hi, I'm Arhaan
 
 ### Full Stack Developer | Database Specialist | Systems Architect
 
-*Building scalable solutions with modern technologies*
+*no one knows how i thinkk*
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/soward-hq-1105829839522517093)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/arhhxxnn)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/arhhxxnn_)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate developer specializing in full-stack development and database architecture. With expertise across multiple programming paradigms and cloud platforms, I build robust, scalable applications that solve real-world problems.
 
@@ -25,7 +25,7 @@ I'm a passionate developer specializing in full-stack development and database a
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -76,9 +76,6 @@ I'm a passionate developer specializing in full-stack development and database a
 ![Cypress](https://img.shields.io/badge/Cypress-%23E5E5E5?style=flat-square&logo=cypress&logoColor=058a5e)
 
 ---
-
-## 📊 GitHub Statistics
-
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wizardoesmagic&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
